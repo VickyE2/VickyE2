@@ -1,13 +1,18 @@
 - 👋 Hi, I’m @VickyE2
-- I’m interested in everything coding, robotics and games.
-- I’m currently learning .... learning.....uhhhh....YES C++.....or was it C#?
-- I'm really good with python and java in case you wana know....(YOU DO)
-- I’m looking to collaborate on everything and anything....
-- My discord is m.victorious20 in case u wana dm me-
-- Pronouns: heh im male
-- Fun fact: The linear expansivity of a solid is less than that of a liquid.......i think XD
+<div align="center">
+  <a href="m.victorious20" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@VickyE_games_and_animations" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
-<!---
-VickyE2/VickyE2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VickyE2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VickyE2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
